@@ -15,8 +15,8 @@ public class C03Variable {
         double d = 3.14; // 실수
         String e = "java"; // 문자열(text)
 
-        c = 9.12; // x
-        e = 3; // x
-        d = "hi" // x
+//        c = 9.12; // x
+//        e = 3; // x
+//        d = "hi" // x
     }
 }

@@ -13,3 +13,4 @@ public class LongExample {
         System.out.println(var4);
     }
 }
+

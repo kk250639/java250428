@@ -25,7 +25,13 @@ public class C03Array {
         d[0] = "hi";
         d[1] = "hello";
         d[2] = "안녕";
+        int[][] v = new int[3][3];
+        v[0] = new int[]{1, 2, 3};
+        v[1] = new int[]{4, 4, 4};
+        v[2] = new int[]{6, 6, 6};
 
+
+        int[][] z = new int[3][3];
 
     }
 }

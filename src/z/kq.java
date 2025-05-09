@@ -1,4 +1,4 @@
-package leetcode;
+package z;
 import java.util.Arrays;
 public class kq {
 public static void main(String[] args) {

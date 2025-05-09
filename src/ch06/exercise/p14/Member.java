@@ -1,4 +1,4 @@
-package ch06.exercise.p13;
+package ch06.exercise.p14;
 
 public class Member {
     String name;
@@ -6,10 +6,9 @@ public class Member {
     String password;
     int age;
 
-    public Member(String name, String id, int age, String password) {
+    // 14번 문제 풀기
+    public Member(String name, String id) {
         this.name = name;
         this.id = id;
-        this.age = age;
-        this.password = password;
     }
 }

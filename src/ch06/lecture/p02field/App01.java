@@ -11,22 +11,23 @@ public class App01 {
 
         b.age = 5;
         b.name = "trump";
-        System.out.println("a.age = " + a.age);
-        System.out.println("a.name = " + a.age);
 
         System.out.println("a.age = " + a.age);
         System.out.println("a.name = " + a.name);
-        
+
+        System.out.println("b.age = " + b.age);
+        System.out.println("b.name = " + b.name);
+
         MyClass01 c = b;
 
         System.out.println("c.age = " + c.age);
         System.out.println("c.name = " + c.name);
-        
+
         b.name = "musk";
 
-        System.out.println("b.name = " + b.name);
+        System.out.println("b.name = " + b.name); // musk
         System.out.println("c.name = " + c.name);
 
-        // b.address = "seoul";
+//        b.address = "seoul";
     }
 }

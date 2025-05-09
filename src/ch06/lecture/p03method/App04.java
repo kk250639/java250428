@@ -44,4 +44,3 @@ class MyClass04 {
         System.out.println(a + b + c);
     }
 }
-

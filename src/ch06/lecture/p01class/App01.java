@@ -10,6 +10,6 @@ public class App01 {
         System.out.println(a == c); // 참조값
 
         MyClass02 d = new MyClass02();
-
+        
     }
 }

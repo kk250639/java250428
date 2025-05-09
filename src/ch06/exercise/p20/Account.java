@@ -1,33 +1,37 @@
 package ch06.exercise.p20;
 
 public class Account {
-    private String accountNumber;
-    private String owner;
+    private String number;
+    private String name;
     private int balance;
 
-    public Account(String accountNumber, String owner, int balance) {
-        this.accountNumber = accountNumber;
-        this.owner = owner;
+    public Account(String number, String name, int balance) {
+        this.number = number;
+        this.name = name;
         this.balance = balance;
     }
 
-    public String getAccountNumber() {
-        return accountNumber;
+    public String getNumber() {
+        return number;
     }
 
-    public String getOwner() {
-        return owner;
+    public void setNumber(String number) {
+        this.number = number;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
     }
 
     public int getBalance() {
         return balance;
     }
 
-    public void deposit(int amount) {
-        this.balance += amount;
-    }
-
-    public void withdraw(int amount) {
-        this.balance -= amount;
+    public void setBalance(int balance) {
+        this.balance = balance;
     }
 }

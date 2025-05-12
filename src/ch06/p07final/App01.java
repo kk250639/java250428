@@ -1,4 +1,4 @@
-package ch06.p07final;
+package ch06.lecture.p07final;
 
 public class App01 {
 }

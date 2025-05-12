@@ -1,4 +1,4 @@
-package z;
+package z.etc;
 
 import java.util.Arrays;
 

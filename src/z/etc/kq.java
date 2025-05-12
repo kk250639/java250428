@@ -1,4 +1,4 @@
-package z;
+package z.etc;
 import java.util.Arrays;
 public class kq {
 public static void main(String[] args) {

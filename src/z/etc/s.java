@@ -1,4 +1,4 @@
-package z;
+package z.etc;
 
 public class s {
     public static void main(String[] args) {

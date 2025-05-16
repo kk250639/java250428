@@ -15,8 +15,8 @@ public class App01 {
         };
     }
 }
-
 interface MyInterface01 {
     void method1();
+
     void method2();
 }

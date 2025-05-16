@@ -5,7 +5,7 @@ public class App07 {
         MyInterface07 a = new MyInterface07() {
             @Override
             public int method() {
-                // 코드에 꼭 리턴타입에 맞는 return문을 만나도록 작성
+                // 코드 때 꼭 리턴타입에 맞는 return 문을 만나도록 작성
                 if (true) {
                     return 3;
                 }
@@ -13,20 +13,17 @@ public class App07 {
             }
         };
         MyInterface07 b = () -> {
-            // 코드에 꼭 리턴타입에 맞는 return문을 만나도록 작성
             if (true) {
                 return 3;
             }
             return 5;
         };
+        // body 에 리턴문 하나만 있을 때 {} 생략가능, return 생략해야함
         MyInterface07 c = () -> {
-            // body에 리턴문 하나만 있을 때 {} 생략가능, rturn 생략해함
-
             return 5;
         };
-        MyInterface07 d = () -> 5;
-        // body에 리턴문 하나만 있을 때 {} 생략가능, rturn 생략해함
 
+        MyInterface07 d = () -> 5;
     }
 }
 

@@ -20,6 +20,7 @@ public class App01 {
 }
 
 
+
 class MyClass08 {
     void action() {
         System.out.println("MyClass08.action");

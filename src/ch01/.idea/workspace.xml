@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de7613e4-df91-4914-90d8-dccfe467c8f4" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/../ch12/exercise/p01/App01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch12/sec03/exam01/EqualsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch12/sec03/exam01/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch13/lecture/p01/App1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch15/exercise/p07/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch15/exercise/p07/BoardDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch15/exercise/p07/ListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch15/lecture/p01List/App01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch15/lecture/p01List/App02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch15/lecture/p01List/App03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch15/lecture/p01List/App04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch15/lecture/p01List/App05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch15/lecture/p01List/App06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch15/leetcode/p1046/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch15/leetcode/p118/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch15/leetcode/p119/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch15/leetcode/p119/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch15/leetcode/p119/Solutiont.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch15/leetcode/p1200/Solutin01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch15/leetcode/p1200/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch15/leetcode/p1200/SolutionT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch15/sec02/exam01/ArrayListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch15/sec02/exam01/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch16/lecture/p01/App01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/p1431/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z/etc/etc/App01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z/etc/etc/IfDiceExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z/etc/etc/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z/etc/etc/az.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z/etc/etc/ch01/sec06/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z/etc/etc/ch01/sec10/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z/etc/etc/ch01/sec11/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z/etc/etc/ch02/sec01/VariableExchangeExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z/etc/etc/ch02/sec01/VariableInitializationExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z/etc/etc/ch02/sec01/VariableUseExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z/etc/etc/ch02/sec02/ByteExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z/etc/etc/ch02/sec02/IntegerLiteralExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z/etc/etc/ch02/sec02/LongExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z/etc/etc/ch06/sec04/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z/etc/etc/ch06/sec04/StudentExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z/etc/etc/ch06/sec06/exam01/car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z/etc/etc/ch06/sec06/exam01/carExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z/etc/etc/exercise/p05/Button.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z/etc/etc/exercise/p05/Example.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z/etc/etc/exercise/p06/Example.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z/etc/etc/exercise/p06/Function.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z/etc/etc/exercise/p07/Example.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z/etc/etc/exercise/p07/Operator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z/etc/etc/kq.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z/etc/etc/p01/App01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z/etc/etc/p01/App02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z/etc/etc/p01/MyClass01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z/etc/etc/p01/MyClass02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z/etc/etc/p01/MyInterface01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z/etc/etc/p02/App01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z/etc/etc/p02/App02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z/etc/etc/p02/MyClass01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z/etc/etc/p03/App01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z/etc/etc/p03/App02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z/etc/etc/p03/App03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z/etc/etc/p03/App04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z/etc/etc/p03/App05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z/etc/etc/p04/App01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z/etc/etc/p04/App02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z/etc/etc/p04/App03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z/etc/etc/p04/App04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z/etc/etc/p04/App05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z/etc/etc/s.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z/etc/etc/sec/Department.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z/etc/etc/sec/Developer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z/etc/etc/sec/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z/etc/etc/sec/EmplyExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z/etc/etc/sec/Language.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z/etc/etc/sec/Manager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z/etc/etc/zz.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "kk250639"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/kk250639/java250428.git",
+    "accountId": "1b44d837-1a72-4d14-8e1a-99a1c50ecdd1"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2xJ1N8a5y9CmOBd4tkjasiVcrLa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/admin/IdeaProjects/java/src/ch01"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="de7613e4-df91-4914-90d8-dccfe467c8f4" name="변경" comment="" />
+      <created>1747641319669</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747641319669</updated>
+    </task>
+    <servers />
+  </component>
+</project>

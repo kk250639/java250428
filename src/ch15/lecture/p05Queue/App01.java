@@ -3,7 +3,7 @@ package ch15.lecture.p05Queue;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class p05queue {
+public class App01 {
     public static void main(String[] args) {
         // queue(FIFO, First In First Out)
         // 먼저 들어간 객체가 먼저 출력됨

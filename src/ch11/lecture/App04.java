@@ -8,11 +8,10 @@ public class App04 {
             int c = b / a;
             System.out.println("프로그램 진행");
         } catch (ArithmeticException e) {
-            // printStackTrace() : 예외 관련정보 출력
+            // prinStackTrace() : 예외 관련정보 출력
             e.printStackTrace();
-            System.out.println("예외 발생시 실행되는 코드 블럭");
+            System.out.println("예외 발생시 실행되는 코드 블록");
         }
-
         System.out.println("이어서 진행되는 코드");
     }
 }

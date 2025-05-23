@@ -7,14 +7,14 @@ public class App02 {
         try {
             int a = 0;
             int b = 5;
-            int c = b / a;    //  ArithmeticException
-            // exception 발생시 catch블록으로 흐름이 넘어감
+            int c = b / a;  // ArithmeticException
+            // exception 발생시 catch블럭으로 흐름이 넘어감
 
             System.out.println("프로그램 진행");
         } catch (ArithmeticException e) {
             System.out.println("예외 발생시 실행되는 코드");
         }
 
-        System.out.println("나머지 코드들....");
+        System.out.println("나머지 코드들...");
     }
 }
